@@ -44,7 +44,7 @@ function App() {
   }
 
   function handleClickIncremento() {
-    const valor = cantidad + STEP; d
+    const valor = cantidad + STEP;
 
     if(valor > MAX) {
       alert('Cantidad maxima!');
