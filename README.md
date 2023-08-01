@@ -5,4 +5,4 @@ Mientras mayor sea la cantidad a prestar menor sera el interes y entre mayor sea
 
 Se utilizan estilos de Tailwind para darle un buen aspecto visual dando asi una buena experiencia de usuario gracias a REACT.
 
-Preview: https://cotizadordeprestamosconreact.netlify.app/
+Preview: https://cotizador-prestamos-react-one.vercel.app/
